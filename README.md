@@ -80,10 +80,3 @@ This will create a `build` directory with the production-ready code.
 
 This project is licensed under the MIT License.
 ```
-
-### Steps Explanation:
-
-1. **Clone the repository**: Replace `https://github.com/your-username/todo-app.git` with the actual GitHub URL if you're pushing this code to GitHub.
-2. **Install dependencies**: This installs all necessary npm packages.
-3. **Start development server**: Runs the app locally.
-4. **Build for production**: Optional step if you plan to deploy the app.
