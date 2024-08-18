@@ -1,0 +1,77 @@
+[
+  {
+    "text": "Designs UI layout for Todo list and calendar",
+    "date": "2024-08-23T11:00:00.000Z",
+    "status": "Pending"
+  },
+  {
+    "text": "Integrate Nepali date converter for task display",
+    "date": "2024-08-24T14:00:00.000Z",
+    "status": "Pending"
+  },
+  {
+    "text": "Implement task creation modal with form validation",
+    "date": "2024-08-25T15:00:00.000Z",
+    "status": "Pending"
+  },
+  {
+    "text": "Complete project setup documentation",
+    "date": "2024-08-18T08:00:00.000Z",
+    "status": "Overdue"
+  },
+  {
+    "text": "Add backend API endpoints for task management",
+    "date": "2024-08-19T12:00:00.000Z",
+    "status": "Overdue"
+  },
+  {
+    "text": "Implement concurrently for running frontend and backend",
+    "date": "2024-08-20T09:00:00.000Z",
+    "status": "Overdue"
+  },
+  {
+    "text": "Fix styling issues in Todo list UI",
+    "date": "2024-08-19T16:00:00.000Z",
+    "status": "Overdue"
+  },
+  {
+    "text": "Write tests for task CRUD operations",
+    "date": "2024-08-17T13:00:00.000Z",
+    "status": "Overdue"
+  },
+  {
+    "text": "Initialize git repository and push to GitHub",
+    "date": "2024-08-16T09:00:00.000Z",
+    "status": "Done"
+  },
+  {
+    "text": "Install necessary npm packages for frontend and backend",
+    "date": "2024-08-17T10:00:00.000Z",
+    "status": "Done"
+  },
+  {
+    "text": "Create README file with project overview and instructions",
+    "date": "2024-08-18T11:00:00.000Z",
+    "status": "Done"
+  },
+  {
+    "text": "Set up basic routing for Todo list and calendar",
+    "date": "2024-08-18T15:00:00.000Z",
+    "status": "Done"
+  },
+  {
+    "text": "Add Material-UI components for basic layout",
+    "date": "2024-08-18T18:00:00.000Z",
+    "status": "Done"
+  },
+  {
+    "text": "keramuji",
+    "date": "2024-08-06T11:45:14.000Z",
+    "status": "Overdue"
+  },
+  {
+    "text": "fwefwe",
+    "date": "2024-08-24T11:46:41.000Z",
+    "status": "Pending"
+  }
+]
